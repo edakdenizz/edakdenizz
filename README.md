@@ -15,25 +15,6 @@
 
 </div>
 
----
-
-## 🧠 About Me
-
-🎓 Computer Engineering student at **Haliç University**
-
-🤖 Focused on **Artificial Intelligence, Computer Vision & Deep Learning**
-
-👁️ Experienced with **YOLO, PyTorch, OpenCV and image-based AI systems**
-
-🧩 Interested in **LLMs, RAG systems and AI-powered applications**
-
-🏆 Developing innovative projects for **Teknofest & TÜBİTAK**
-
-⚙️ Also gaining hands-on experience in **RPA & Intelligent Automation**
-
-🌱 Currently improving my skills in **AI engineering, model deployment and software development**
-
----
 
 ## 🚀 What I Work On
 
@@ -65,19 +46,7 @@ OpenCV
 
 <td width="33%" align="center">
 
-### ⚙️ Intelligent Automation
 
-RPA
-UiPath
-REFramework
-Data Processing
-Workflow Automation
-
-</td>
-</tr>
-</table>
-
----
 
 # 🛠️ Tech Stack
 
@@ -133,73 +102,6 @@ Workflow Automation
 
 ---
 
-# 🔥 Featured Projects
-
-### ♻️ RecycleX — AI-Powered Smart Waste Sorting
-
-An autonomous waste sorting system combining **Computer Vision, IoT and gamification**.
-
-* 🎯 YOLOv8 Nano
-* 📊 **96.81% mAP50**
-* 🍓 Raspberry Pi 5 deployment
-* ⚡ Real-time object classification
-* 🤖 Automated sorting mechanism
-* 📱 Mobile reward system
-
-**Tech:** Python · YOLOv8 · PyTorch · OpenCV · Raspberry Pi · IoT
-
-🔗 [View Project](https://github.com/edakdenizz)
-
----
-
-### 🏐 VolleyRAG — AI-Powered Information System
-
-An AI application exploring **retrieval-based question answering and LLM-powered interactions**.
-
-* 🧠 Retrieval-Augmented AI concepts
-* 🔎 Information retrieval
-* 💬 AI-assisted responses
-* 🌐 Web-based application
-
-**Tech:** Python · LLM · RAG · JavaScript
-
-🔗 [View Project](https://github.com/edakdenizz/VolleyRAG)
-
----
-
-### 🚁 Disaster Relief AI Drone
-
-A computer vision system designed for **disaster-response scenarios using UAV imagery**.
-
-* 🛣️ Road detection
-* 🚧 Obstacle detection
-* 🛞 Lane analysis
-* 🧭 Path planning
-* 🤖 YOLO-based object detection
-
-**Tech:** Python · YOLO · OpenCV · PyTorch · NumPy
-
----
-
-### 🛣️ Road Lane Detection with YOLO
-
-A deep learning project focused on detecting **roads and lane markings from visual data**.
-
-**Tech:** Python · YOLOv11 · PyTorch · OpenCV
-
-🔗 [View Project](https://github.com/edakdenizz/Road-Lane-Detection-with-YOLOv11)
-
----
-
-### 🗺️ Road Segmentation with PyTorch
-
-Deep learning based semantic segmentation for identifying road regions in aerial imagery.
-
-**Tech:** Python · PyTorch · U-Net · Computer Vision
-
-🔗 [View Project](https://github.com/edakdenizz/Road-Segmentation-with-PyTorch)
-
----
 
 # 📊 GitHub Statistics
 
@@ -213,40 +115,6 @@ Deep learning based semantic segmentation for identifying road regions in aerial
 
 ---
 
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=edakdenizz&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 Experience
-
-**RPA & Intelligent Automation Intern — TEB**
-
-Working with:
-
-`UiPath` · `REFramework` · `LLM` · `Power BI` · `Data Processing`
-
-**Lead Software Developer — RecycleX**
-
-Developing an AI-powered autonomous waste sorting system for **Teknofest 2026 & TÜBİTAK**.
-
----
-
-## 🎯 Currently Learning
-
-```text
-Deep Learning
-Computer Vision
-LLMs & RAG
-Model Deployment
-AI Engineering
-Software Architecture
-```
 
 ---
 
